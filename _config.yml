@@ -2,6 +2,7 @@ title: Yu Seung Kim's blog
 logo: /assets/img/yskim.png
 description: Cyber-Physical System Security (IoT, Cloud, Wireless, Mobile, Automotive, Healthcare, Data Privacy)
 show_downloads: no
+is_project_page: no
 baseurl: "/"
 google_analytics:
 theme: jekyll-theme-minimal

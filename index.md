@@ -17,7 +17,12 @@ My research interest is in the analysis of potential threats in mission critical
 
 ### Experience
 
-#### Automotive Cybersecurity Research Scientist at Ford Greenfield Labs, Palo Alto, CA (Mar 2015 - Jul 2015)
+#### Staff Product Security Engineer at Intuitive Surgical, Sunnyvale, CA (Jul 2020 - current)
+- Threat analysis and security design guidance on digital healthcare products
+- Regulatory cybersecurity compliance of digital healthcare products (e.g. FDA, EU-MDR)
+- Cloud and container security
+
+#### Automotive Cybersecurity Research Scientist at Ford Greenfield Labs, Palo Alto, CA (Mar 2015 - Jul 2020)
 - Threat analysis and risk assessment of autonomous and conncected vehicles
 - In-vehicle network security (CAN, CAN-FD, Auto Ethernet)
 - Automotive IDS (CAN IDS, smartphone-aided vehicle IDS)
