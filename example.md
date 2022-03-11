@@ -4,8 +4,6 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -61,17 +59,6 @@ end
 ### There's a horizontal rule below this.
 
 * * *
-
-### Recent Publication
-
-* Cho, Kyong-Tak, Kang Shin, Yu Seung Kim, and Byung-Ho Cha. _"Off is Not Off: On the Security of Parked Vehicles."_ In 2020 IEEE Conference on Communications and Network Security (CNS), pp. 1-9. IEEE, 2020
-* Yieh, Pierson, Aaron Otis, Andrew R. Li, Sean Bayley, Atticus Liu, Chin Chao, Daniel Kim, Bruce DeBruhl, and Yu Seung Kim. _"Multi-Radio-Based Vehicle Pseudonym Association."_ In 2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall)
-* Kim, Yu Seung. _"Secure and Safe In-Vehicle Device Pairing Using Accelerometer Sensor."_ In 2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall)
-* Li, Huaxin, Di Ma, Brahim Medjahed, Yu Seung Kim, and Pramita Mitra. _"Data Privacy in the Emerging Connected Mobility Services: Architecture, Use Cases, Privacy Risks, and Countermeasures."_ SAE International Journal of Transportation Cybersecurity and Privacy, No. 11-02-01-0004 (2019)
-* Li, Huaxin, Di Ma, Brahim Medjahed, Yu Seung Kim, and Pramita Mitra. _"Analyzing and Preventing Data Privacy Leakage in Connected Vehicle Services."_ SAE International Journal of Advances and Current Practices in Mobility, No. 2019-01-0478 (2019)
-* Li, Huaxin, Di Ma, Brahim Medjahed, Qianyi Wang, Yu Seung Kim, and Pramita Mitra. _"Secure and privacy-preserving data collection mechanisms for connected vehicles."_ No. 2017-01-1660. SAE Technical Paper, 2017.
-
-\* The full list can be found [here](https://www.linkedin.com/in/yu-seung-kim-4b25a024/details/publications/).
 
 ### And an ordered list:
 
